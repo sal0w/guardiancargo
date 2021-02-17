@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guardian Cargo Services INC.|CHA</title>
+    <description>Guardian cargo services inc. is a leading provider of Logistics solutions and supply chain management solutions across the globe. Having started in India, Guardian cargo services Inc. has grown to become one of the largest logistics companies in the Indian Sub-Continent. With over three decades of experience in forwarding &amp; warehousing, Guardian cargo services Inc. is well recognized for offering flexible and personalized solutions at the best rate and using optimized routes.</description>
+    <link>www.guardiancargo.in./</link>
+    <atom:link href="www.guardiancargo.in./feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 22 Jan 2016 12:19:05 -0500</pubDate>
+    <lastBuildDate>Fri, 22 Jan 2016 12:19:05 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
